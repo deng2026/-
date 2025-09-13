@@ -1,6 +1,6 @@
 这是一个用数字逻辑电路搭建的数字钟，实现了闹钟、日历等功能。
 
-![项目截图](https://raw.githubusercontent.com/deng2026/-/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-13%20000944.png)
+![项目截图](https://raw.githubusercontent.com/deng2026/digital_clock/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-13%20000944.png)
 
 ## 功能
 - 时间显示
